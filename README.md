@@ -43,3 +43,13 @@ How has the average movie budget changed over the years?
 What is the total revenue and budget of all movies released in the last decade?
 Which years had the highest number of movies released?
 What is the trend of IMDb ratings over time (yearly average)?
+
+
+Few Insights:
+1. 
+2. 
+3. 
+4. 
+5. 
+
+
